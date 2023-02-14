@@ -1,0 +1,6 @@
+
+// all / (C) Copyright 2023 e6nlaq
+// This file is part of Judge.cpp and is available under the MIT license.
+
+#include "./def.hpp"
+#include "./vector.hpp"
